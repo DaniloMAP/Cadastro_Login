@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337952648267",
+    "project_id": "cadastroflutter-fa6cd",
+    "storage_bucket": "cadastroflutter-fa6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337952648267:android:8f84e2128d4d7be9c4f1ce",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFsvFNsaavPtUEgDYzsg4nL2wDnRxY1Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
